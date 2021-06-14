@@ -5,8 +5,7 @@ from interface import Interface
 runner = Interface()
 runner.menu_selection()
 
-# For Instructor:
-# Yeah, sorry but this assessment is sadly incomplete :( 
-# I intend to work on this over the weekend, and submit before the week is out!
-# Ran into a lot of issues trying to get my methods and csv's to function correctly
-# Apologies. I'll be studying.
+# Jun 14 Update. I genuinely appreciated the weekend to work on this difficult problem.  
+# Unfortunately I have not made much progress on my own. Documentation, challenge review, and CP's youtube have been helpful. But despite that progress has been awfully slow. I managed to get functions 1,2,5, and 6 working. 
+# The framework is there, but option 3 (rent video) is only partially complete. The actual assignment and overwriting of CSV values representing stock and rentals keep failing. 
+# I'll continue to work on this, but the 8:30 deadline is here so this is my first attempt.

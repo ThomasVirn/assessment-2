@@ -50,7 +50,7 @@ class Interface:
                 break
             elif input == 6:
                 quit()
-                break
+                
 
            
        
